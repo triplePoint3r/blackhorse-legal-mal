@@ -1,0 +1,84 @@
+MIT License
+
+Copyright (c) 2026 triplePoint3r
+
+────────────────────────────────────────────────────────────────────
+PART A — MIT LICENSE
+────────────────────────────────────────────────────────────────────
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+────────────────────────────────────────────────────────────────────
+PART B — ETHICAL USE ADDENDUM
+────────────────────────────────────────────────────────────────────
+
+This software ("Black Horse") is a Command & Control Remote Access Trojan
+(RAT) developed solely for academic and educational purposes in the context
+of a university Malware Development course.
+
+By using, copying, modifying, or distributing this software, you additionally
+agree to the following:
+
+1. PERMITTED USE
+   You may use this software ONLY for:
+   (a) Educational study and learning.
+   (b) Isolated lab environments (VMs, offline test networks) that you
+   own or have explicit written permission to test.
+   (c) Academic research and publication with proper attribution.
+
+2. PROHIBITED USE
+   You MUST NOT use this software, in whole or in part, to:
+   (a) Access, control, surveil, damage, or interfere with any system,
+   device, or network that you do not own or do not have explicit
+   written permission to test.
+   (b) Engage in any illegal activity under any applicable law.
+   (c) Deploy on production systems, corporate networks, critical
+   infrastructure, or any environment where it could cause harm.
+   (d) Encrypt, exfiltrate, or destroy data belonging to any third party.
+   (e) Attack, harass, or harm any individual or organization.
+   (f) Sell, sublicense, or commercially distribute this software.
+
+3. LEGAL COMPLIANCE
+   You are solely responsible for ensuring your use complies with all
+   applicable laws, including but not limited to the Computer Fraud and
+   Abuse Act (CFAA), the Computer Misuse Act, and equivalent legislation
+   in your jurisdiction.
+
+4. NO LIABILITY FOR MISUSE
+   The author assumes no liability for any damages, legal consequences,
+   or harm arising from misuse of this software. You use it entirely at
+   your own risk.
+
+5. TERMINATION
+   This license terminates automatically if you violate any term of
+   Part B. Upon termination, you must cease all use and destroy all copies.
+
+────────────────────────────────────────────────────────────────────
+PART C — ACCEPTANCE
+────────────────────────────────────────────────────────────────────
+
+By downloading, copying, installing, or using this software, you
+acknowledge that you have read this license, understand it, and agree
+to be bound by both Part A and Part B.
+
+If you do not agree, you must not use this software.
+
+────────────────────────────────────────────────────────────────────
+SPDX-License-Identifier: MIT
+────────────────────────────────────────────────────────────────────
